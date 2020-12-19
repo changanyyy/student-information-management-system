@@ -1,0 +1,5 @@
+﻿  Administer.cpp
+D:\programproject\大项目1\Administer.cpp(290,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\programproject\大项目1\Administer.cpp(382,17): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“bool *”
+D:\programproject\大项目1\Administer.cpp(423,24): warning C4018: “<”: 有符号/无符号不匹配
+  大项目1.vcxproj -> D:\programproject\大项目1\Debug\大项目1.exe
